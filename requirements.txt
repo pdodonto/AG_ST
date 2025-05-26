@@ -1,7 +1,7 @@
 # Interface
-protobuf==3.19.1
+# protobuf==3.19.1
 tensorflow
-streamlit
+streamlit 1.40.1
 
 # Machine Learning
 scikit-learn==1.3.2
