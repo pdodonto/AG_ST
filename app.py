@@ -127,7 +127,7 @@ with st.sidebar:
     st.divider()
     st.subheader("***Pre-processing***")
     base_options = ["Original", "PCA"]
-    base_selection = st.multiselect("Include", base_options, default=["Original", "PCA"])
+    base_selection = st.pills("Include", base_options, selection_mode="multi", default=["Original", "PCA"])
     
 
     #AG options
