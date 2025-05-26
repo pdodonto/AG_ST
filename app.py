@@ -40,7 +40,6 @@ import utils.AG_FTIR as ag
 import utils.preprocessing as pp
 
 # Initialization
-shap.initjs()
 importlib.reload(utils)
 
 #Keras
