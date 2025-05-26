@@ -1,6 +1,6 @@
 # Interface
-protobuf==3.19.6
-tensorflow==2.10.1
+protobuf==3.19.1
+tensorflow
 streamlit
 
 # Machine Learning
