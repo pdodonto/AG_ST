@@ -33,7 +33,7 @@ requests-oauthlib==2.0.0
 # Outras dependências
 pyarrow==17.0.0
 packaging==24.2
-#protobuf==3.20.3
+# protobuf==3.20.3
 Werkzeug==3.0.6
 watchdog==4.0.2
 
