@@ -25,7 +25,8 @@
 2. **Crie um ambiente virtual (recomendado):**
 
    ```bash
-   python -m venv .venv
+   pip install virtualenv
+   python -m virtualenv .venv --python=python3.9
    source .venv/bin/activate  # Linux/macOS
    .venv\Scripts\activate     # Windows
    ```
@@ -33,6 +34,7 @@
 3. **Instale as dependências:**
 
    ```bash
+   cd programas
    pip install -r requirements.txt
    ```
 
@@ -40,7 +42,7 @@
 
 ## Execução do App
 
-Execute o comando abaixo no terminal dentro da pasta do projeto:
+Execute o comando abaixo no terminal dentro da pasta programas:
 
 ```bash
 streamlit run app.py
@@ -65,7 +67,7 @@ Se não abrir, acesse manualmente: [http://localhost:8501](http://localhost:8501
 
 ## Requisitos
 
-* Python 3.8 ou superior
+* Python 3.9
 * Navegador moderno (Chrome, Firefox, Edge...)
 
 ---
