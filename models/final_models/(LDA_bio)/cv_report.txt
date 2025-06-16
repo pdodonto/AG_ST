@@ -1,0 +1,8 @@
+--- Classification Report (CV) Train-Validation ---
+AUC-ROC: 0.735 ±0.078
+Acurácia: 0.677 ±0.082
+Precisão: 0.686 ±0.141
+Especificidade: 0.686 ±0.132
+Sensibilidade: 0.679 ±0.081
+F1-score: 0.673 ±0.079
+---

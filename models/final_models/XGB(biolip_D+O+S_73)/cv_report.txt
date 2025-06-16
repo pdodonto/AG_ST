@@ -1,0 +1,11 @@
+--- Classification Report (CV) Train-Validation ---
+AUC-ROC: 0.688 ±0.087
+Acurácia: 0.655 ±0.070
+Precisão: 0.664 ±0.112
+Especificidade: 0.682 ±0.104
+Sensibilidade: 0.634 ±0.070
+F1-score: 0.652 ±0.072
+---
+
+Best model information:
+Data: MNF(0): 0.9999 - init_cols(966) - Fitness: 0.6175 - Random_state: 5630

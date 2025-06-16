@@ -1,0 +1,11 @@
+--- Classification Report (CV) Train-Validation ---
+AUC-ROC: 0.566 ±0.107
+Acurácia: 0.480 ±0.059
+Precisão: 0.488 ±0.235
+Especificidade: 0.454 ±0.327
+Sensibilidade: 0.577 ±0.300
+F1-score: 0.326 ±0.139
+---
+
+Best model information:
+Data: Savgol_df: (3051.7579 - 902.0158) - Fitness: -1 - Random_state: 9
